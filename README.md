@@ -13,3 +13,6 @@ appending the time machine date to the copy.
 For example `tmcp --offset 3 README.txt` might
 copy the file to `README.txt+2016-09-30-100004`
 ```
+
+
+#### See also [tmdiff](https://github.com/erica/tmdiff), [tmls](https://github.com/erica/tmls)
